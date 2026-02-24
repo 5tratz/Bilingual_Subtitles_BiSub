@@ -8,8 +8,6 @@ A powerful tool for creating bilingual subtitles by translating SRT files into a
 
 <b>Features</b>:
 
-Coming Soon
-
 - Multi-language translation.
 - Parallel processing.
 - Dark/Light themes.
