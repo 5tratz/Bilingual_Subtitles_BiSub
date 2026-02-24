@@ -1,6 +1,6 @@
 # Bilingual Subtitles (BiSub)
 
-<img src="IMG LINK" alt="">
+<img src="https://i.ibb.co/qFJv8JV4/Screenshot-1.jpg" alt="">
 
 A powerful tool for creating bilingual subtitles by translating SRT files into any language while preserving the original text.
 
@@ -9,3 +9,16 @@ A powerful tool for creating bilingual subtitles by translating SRT files into a
 <b>Features</b>:
 
 Coming Soon
+
+- Multi-language translation.
+- Parallel processing.
+- Dark/Light themes.
+- Drag & drop support.
+- Live preview.
+- Pause/Resume/Stop.
+- System logs.
+- Completion sound.
+- Custom credits.
+- Auto-retry failed.
+- Settings save/load.
+- Cross-platform.
